@@ -1,1 +1,1 @@
-# Example-project
+# eks-example
